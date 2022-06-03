@@ -1,1 +1,1 @@
-# atividadeProlog
+# Atividade da Faculdade em Prolog
